@@ -13,7 +13,7 @@
   <a href="https://rubygloom.bandcamp.com/">🎧 Download Free on Bandcamp</a>
 </p>
 <p align="center">
-  <a href="[https://rubygloom.bandcamp.com/](https://open.spotify.com/album/5mTzr0aAkAJVJ1zBgZEnRH?si=FlRO7EjeSFui4Rti1w0dnA)">🎧 Listen on Spotify</a>
+  <a href="https://open.spotify.com/album/5mTzr0aAkAJVJ1zBgZEnRH?si=FlRO7EjeSFui4Rti1w0dnA">🎧 Listen on Spotify</a>
 </p>
 
 <img src="photos.png" alt=":(" />
