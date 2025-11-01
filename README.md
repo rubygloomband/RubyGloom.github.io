@@ -1,3 +1,4 @@
+<script src="https://open.spotify.com/embed/iframe-api/v1" async></script>
 <html>
   <p align="center">
 <img src="album cover.jpeg" alt=":(" />
@@ -9,9 +10,14 @@
     Ruby Gloom
   </span>
 </h1>
-<p>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5mTzr0aAkAJVJ1zBgZEnRH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</p>
+
+<iframe style="border-radius:12px"
+  src="https://open.spotify.com/embed/album/5mTzr0aAkAJVJ1zBgZEnRH?si=SJGaGRr0QKC0I3V0cBSbgA"
+  width="300" height="380"
+  frameborder="0"
+  allowtransparency="true"
+  allow="encrypted-media">
+</iframe>
 
 <p align="center">
   <a href="https://rubygloom.bandcamp.com/">🎧 Download Free on Bandcamp</a>
