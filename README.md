@@ -1,3 +1,5 @@
+<p> this page doesn't edit the site, go to the index file</p>
+
 <html>
   <p align="center">
 <img src="album cover.jpeg" alt=":(" />
