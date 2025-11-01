@@ -1,4 +1,3 @@
-<script src="https://open.spotify.com/embed/iframe-api/v1" async></script>
 <html>
   <p align="center">
 <img src="album cover.jpeg" alt=":(" />
