@@ -1,26 +1,61 @@
+<!DOCTYPE html>
 <html>
-  <p align="center">
-<img src="titlecard.png" alt=":(" />
-  </p>
-  
-<iframe style="border-radius:12px"
-  align="center"
-  src="https://open.spotify.com/embed/album/5mTzr0aAkAJVJ1zBgZEnRH?si=SJGaGRr0QKC0I3V0cBSbgA"
-  width="1300" height="380"
-  frameborder="0"
-  allowtransparency="true"
-  allow="encrypted-media">
-</iframe>
+<head>
+  <meta charset="UTF-8">
+  <title>Ruby Gloom Band</title>
+  <style>
+    .center-content {
+      text-align: center;
+    }
+    .centered-media {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 800px;
+      max-width: 95vw;
+    }
+    .centered-iframe {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 800px;
+      max-width: 95vw;
+      border-radius: 12px;
+    }
+    /* Optional: Style for Bandcamp iframe to match border-radius if desired */
+    .bandcamp-iframe {
+      border-radius: 12px;
+    }
+  </style>
+</head>
+<body>
+  <div class="center-content">
+    <img src="titlecard.png" alt=":(" class="centered-media" />
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1157150181/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://rubygloom.bandcamp.com/album/ruby-gloom">Ruby Gloom by Ruby Gloom</a></iframe>
+    <iframe
+      class="centered-iframe"
+      src="https://open.spotify.com/embed/album/5mTzr0aAkAJVJ1zBgZEnRH?si=SJGaGRr0QKC0I3V0cBSbgA"
+      width="800" height="380"
+      frameborder="0"
+      allowtransparency="true"
+      allow="encrypted-media">
+    </iframe>
 
- <p> align="center"
-<img src="photos.png" alt=":(" />
-</p> 
+    <iframe
+      class="centered-iframe bandcamp-iframe"
+      src="https://bandcamp.com/EmbeddedPlayer/album=1157150181/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/"
+      width="800" height="120"
+      frameborder="0"
+      seamless>
+    </iframe>
 
-<p align="center">This website was written by David Hunter Studios and hosted by GitHub</p>
-<p align="center">The name Ruby Gloom is based on art by Martic Hsu </p>
-<p align="center">
-  <a href="https://www.martinhsudesign.com/ruby-gloom-book-illustrations">Martin Hsu Design</a>
-</p>
+    <img src="photos.png" alt=":(" class="centered-media" />
+
+    <p>This website was written by David Hunter Studios and hosted by GitHub</p>
+    <p>The name Ruby Gloom is based on art by Martin Hsu</p>
+    <p>
+      <a href="https://www.martinhsudesign.com/ruby-gloom-book-illustrations">Martin Hsu Design</a>
+    </p>
+  </div>
+</body>
 </html>
