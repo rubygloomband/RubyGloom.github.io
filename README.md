@@ -1,13 +1,17 @@
 <html>
+  <p align="center">
 <img src="album cover.jpeg" alt=":(" />
 <img src="website title card sept 27.png" alt=":(" />
-
+  </p>
+  
 <h1 align="center">
   <span style="font-family: 'Impact', 'Arial Black', sans-serif; font-size: 3em; font-weight: bold;">
     Ruby Gloom
   </span>
 </h1>
+<p>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5mTzr0aAkAJVJ1zBgZEnRH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</p>
 
 <p align="center">
   <a href="https://rubygloom.bandcamp.com/">🎧 Download Free on Bandcamp</a>
