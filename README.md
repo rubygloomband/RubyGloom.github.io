@@ -1,4 +1,5 @@
 <html>
+<img src="album cover.jpeg" alt=":(" />
 <img src="website title card sept 27.png" alt=":(" />
 
 <h1 align="center">
@@ -6,20 +7,15 @@
     Ruby Gloom
   </span>
 </h1>
-
-<p align="center">
-  Toronto based independent band at the crossroads of Nirvana and Elliot Smith.
-</p>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5mTzr0aAkAJVJ1zBgZEnRH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <p align="center">
   <a href="https://rubygloom.bandcamp.com/">🎧 Download Free on Bandcamp</a>
 </p>
 <p align="center">
-  <a href="https://rubygloom.bandcamp.com/">🎧 Listen on Spotify</a>
+  <a href="[https://rubygloom.bandcamp.com/](https://open.spotify.com/album/5mTzr0aAkAJVJ1zBgZEnRH?si=FlRO7EjeSFui4Rti1w0dnA)">🎧 Listen on Spotify</a>
 </p>
-<p align="center">
-  <a href="https://rubygloom.bandcamp.com/">Watch Our Music Video on YouTube</a>
-</p>
+
 <img src="photos.png" alt=":(" />
 
 
